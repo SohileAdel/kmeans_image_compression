@@ -1,1 +1,1 @@
-# kmeans_image_compression
+In this project, KMeans clustering has been used to compress an image. Our image contains thousands of colors, we will reduce the number of colors to 16 colors. By making this reduction, it is possible to represent (compress) the photo in an efficient way.
