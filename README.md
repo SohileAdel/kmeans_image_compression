@@ -12,4 +12,4 @@ KMeans clustering has been used to compress an image. Our image contains thousan
 ### Technologies
 * Python
 * Jupyter Notebook
-* Pandas, Numpy, Scikit Learn, Matplotlib
+* Numpy, Scikit Learn, Matplotlib
